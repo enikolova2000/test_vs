@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 The bastion was quiet at night.
 A lantern flickered in the tower.
 Shadows moved behind the curtain.
+=======
+The castle was quiet at night.
+A lantern flickered in the tower.
+A shadow moved behind the curtain.
+>>>>>>> main
 Was someone watching?
